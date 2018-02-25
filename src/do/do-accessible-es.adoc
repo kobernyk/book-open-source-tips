@@ -7,7 +7,7 @@ Esto tiene 2 áreas:
 
 ==== Baje la barrera para entrar
 
-Permita que todas las personas, jóvenes y personas mayores sean parte de la comunidad y contribuyan.
+Permita que todas las personas, jóvenes y adultos mayores sean parte de la comunidad y contribuyan.
 
 * Plantilla de GitHub <<_github_template_files,más información>>
 * Pruebas automatizadas <<_automation_tests_continuous_integration_ci_continuous_deployment_cd,más información>>
